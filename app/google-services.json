@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17482059558",
+    "project_id": "mav-health",
+    "storage_bucket": "mav-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17482059558:android:97348703d891856d7fbbe7",
+        "android_client_info": {
+          "package_name": "com.soumyajit.mavhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17482059558-6eg05of5gle9pa28llvkimc4pa610m00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soumyajit.mavhealth",
+            "certificate_hash": "3f47fc34fd2f0b761270bba0a43ba4fe6dc40dfb"
+          }
+        },
+        {
+          "client_id": "17482059558-ak26jltsv6ub935ipg8oeva9no33rotl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuC02NKqVYo5mZ4VzpvDL2-L-1yRQPd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17482059558-ak26jltsv6ub935ipg8oeva9no33rotl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
